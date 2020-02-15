@@ -21,7 +21,7 @@ FastCampus iOS School 10기 두 번째 프로젝트 with 안지현
 
 {% youtube 2BNf41GbPtA %}
 
-{% youtube sgeLTl3eShQ %}
+
 
 - 마지막 Hell 스테이지는 클리어 시연을 위해 한 쌍만 맞춰도 클리어 되도록 처리하였습니다.
 
